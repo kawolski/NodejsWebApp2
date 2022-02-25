@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp2", "NodejsWebApp2\NodejsWebApp2.njsproj", "{F6AC4039-05DB-4A4D-8F53-63E77820F2CC}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "NodejsWebApp2.AzureResourceGroup", "NodejsWebApp2.AzureResourceGroup\NodejsWebApp2.AzureResourceGroup.deployproj", "{AAC3F0A2-B53D-442C-B038-7E45511D1034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AC4039-05DB-4A4D-8F53-63E77820F2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AC4039-05DB-4A4D-8F53-63E77820F2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AC4039-05DB-4A4D-8F53-63E77820F2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AC4039-05DB-4A4D-8F53-63E77820F2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC3F0A2-B53D-442C-B038-7E45511D1034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC3F0A2-B53D-442C-B038-7E45511D1034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC3F0A2-B53D-442C-B038-7E45511D1034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC3F0A2-B53D-442C-B038-7E45511D1034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D25B86E-0669-400C-8CE0-D2F547B3D58C}
+	EndGlobalSection
+EndGlobal
